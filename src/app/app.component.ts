@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'gts';
+
+  videoLoaded(e: Event) {
+    console.log('video loaded', e);
+  }
 }
