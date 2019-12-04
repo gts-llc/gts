@@ -11,8 +11,8 @@ export const environment = {
     projectId: "gts-site-80a8a",
     storageBucket: "gts-site-80a8a.appspot.com",
     messagingSenderId: "377073901666",
-    appId: "1:377073901666:web:73a49a8a3a32f4e597b13b",
-    measurementId: "G-LWCHJWWB79"
+    appId: "1:377073901666:web:7d5a814ad7e0ee5697b13b",
+    measurementId: "G-HNEXQTGVTF"
   }
 };
 
